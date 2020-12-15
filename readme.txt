@@ -6,4 +6,4 @@ zxcvbnm0.0
 龙战于野
 你的也是我的
 Creating a new branch is quick
-Creating a new branch is quick & simple.
+Creating a new branch is quick &nd simple.
